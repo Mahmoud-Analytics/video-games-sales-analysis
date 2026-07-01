@@ -108,7 +108,7 @@ Video Games Data/
 │   ├── top_games.csv
 │   ├── year_sales.csv
 │   ├── video_games_python_cleaned.csv
-│   └── powerbi_dashboard.png
+│   └── powerbi_dashboard_final_v2.png
 │
 ├── Python/
 │   └── video_games_python_analysis.ipynb
@@ -117,7 +117,7 @@ Video Games Data/
 │   └── video_games_sql_analysis.sql
 │
 ├── PowerBI/
-│   └── video_games_sales_dashboard.pbix
+│   └── video_games_sales_dashboard_final.pbix
 │
 ├── vgsales.csv
 ├── video_games_cleaned.csv
@@ -242,7 +242,7 @@ The dashboard includes:
 Dashboard file:
 
 ```text
-PowerBI/video_games_sales_dashboard.pbix
+PowerBI/video_games_sales_dashboard_final.pbix
 ```
 
 Dashboard preview:
