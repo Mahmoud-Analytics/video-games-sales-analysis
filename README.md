@@ -247,7 +247,7 @@ PowerBI/video_games_sales_dashboard.pbix
 
 Dashboard preview:
 
-![Power BI Dashboard](Outputs/powerbi_dashboard_final.png)
+![Power BI Dashboard](Outputs/PowerBi_Dashboard_Final(2).png)
 
 ---
 
